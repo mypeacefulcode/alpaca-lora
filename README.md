@@ -10,7 +10,7 @@ Training
 ```bash
 pip install -r requirements.txt -q
 ```
-학습된 모델의 bin파일의 사이즈가 443byte인 버그가 있어서 아래의 버전으로 설치해야합니다. tloen#293
+학습된 모델의 bin파일의 사이즈가 443byte인 버그가 있어서 아래의 버전으로 설치해야합니다. [tloen#293](https://github.com/tloen/alpaca-lora/issues/293)
 
 ```bash
 pip uninstall peft -y
